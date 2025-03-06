@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -g
-TARGET = test.exe
-SRC = test.c
+TARGET = ctest.exe
+SRC = ctest.c
 
 all: $(TARGET)
 
